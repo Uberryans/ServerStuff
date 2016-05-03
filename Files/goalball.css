@@ -1,0 +1,31 @@
+body{
+	background-color: #ffffff;
+	border-style: solid;
+	border-bottom-color: red;
+	border-bottom-width: 50px;
+	border-top-color:blue;
+	border-top-width:50px;
+	border-left-color: white;
+	border-right-color: white; 
+}
+
+form.centered{
+	margin: 0 auto;
+	width: 200px;
+}
+
+img.logo{
+	display: block;
+	margin: 10px auto;
+}
+
+input{
+	padding: 5px;
+	margin: 5px;
+}
+
+button.form_but{
+	margin: 0 auto;
+	padding: 5px;
+	margin: 5px;
+}
